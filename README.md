@@ -13,3 +13,13 @@ python -m venv .venv
 pip install django
 django-admin startproject cwd_crm .
 ```
+## 02 Create app webapp
+
+```bash
+django-admin startapp webapp
+
+python manage.py migrate 
+python manage.py createsuperuser
+python manage.py runserver
+```
+
