@@ -23,3 +23,14 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+## 03 Create webapp urls.py
+
+```
+File: settings.py
+STATICFILES_DIRS = [BASE_DIR / 'static']
+
+Create webapp\templates\webapp folder
+```
+
+Current: 44:35
+
