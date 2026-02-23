@@ -37,10 +37,14 @@ File: settings.py
 STATICFILES_DIRS = [BASE_DIR / 'static']
 ```
 
-Current: 44:35
-
 ## 04 Create webapp\templates\webapp folder and basic empty html files
 
 ```
+```
+
+## 05 User creation and authentication = Part 1
+
+```
+Current: 1:28:30
 ```
 
