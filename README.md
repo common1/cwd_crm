@@ -49,11 +49,13 @@ STATICFILES_DIRS = [BASE_DIR / 'static']
 
 ## 06 User creation and authentication = Part 2
 
-```
-Current: 1:50:30
-```
-
 ```bash
 pip install django-crispy-forms==1.14.0
+```
+
+## 06 User creation and authentication = Part 3
+
+```
+User authentication finished
 ```
 
