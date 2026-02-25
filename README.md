@@ -62,6 +62,11 @@ User authentication finished
 # 07 CRUD - Read - Part 1
 
 ```
-Current: 2:26:40
+```
+
+# 07 CRUD - Read - Part 2
+
+```
+Current: 2:26:53
 ```
 
