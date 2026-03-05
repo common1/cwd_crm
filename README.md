@@ -85,6 +85,11 @@ Current: 2:52:21
 ## 09 CRUD - Create - Part 2
 
 ```
+```
 
+## 10 CRUD - Create - Part 3
+
+```
+Current: 2:59:59
 ```
 

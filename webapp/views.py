@@ -66,7 +66,7 @@ def dashboard(request):
 @login_required(login_url='my-login')
 def create_record(request):
     form = CreateRecordForm()
-    if request.methpd == "POST":
+    if request.method == "POST":
         form = CreateRecordForm(request.POST)
         
         if form.is_valid():
@@ -75,6 +75,8 @@ def create_record(request):
             return redirect("dashboard")
         
     context = {'form': form}
+
+    return render(request, 'webapp/create-record.html', context=context)
 
 # - User logout
 
