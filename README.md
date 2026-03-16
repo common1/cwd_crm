@@ -102,3 +102,9 @@ Current: 2:59:59
 
 ...
 ...
+
+## 13 Adding icons with Font Awesome - Part 1
+
+```
+```
+
